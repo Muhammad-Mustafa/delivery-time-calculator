@@ -1,0 +1,13 @@
+.display{
+    display: flex;
+    align-items: justify;
+    flex-direction:  column;
+    margin-top: 10%;
+    margin: 2%;
+    padding: 3%;
+}
+
+.spacing{
+    padding-top: 20px;
+    
+}
